@@ -52,13 +52,21 @@ This application leverages the OpenWeatherMap API, retrieving real-time weather 
 ## Output
 
 **Without Selecting the State-**
+
 ![image](https://github.com/Vicky9890/Weather_Forecasting_Application_using_Tkinter/assets/138276603/8f0c903a-6b7e-4c07-bc17-947fcf48fbda)
 
+
 **While Selecting the State-**
+
 ![image](https://github.com/Vicky9890/Weather_Forecasting_Application_using_Tkinter/assets/138276603/96ecd0c7-1628-4be8-9314-6f4429e8b413)
 
+
 **After Selecting the State and press "Done" button-**
+
 ![image](https://github.com/Vicky9890/Weather_Forecasting_Application_using_Tkinter/assets/138276603/0d128c0c-57ab-4c25-8907-28c0ca4bb451)
 
+
 **After Selecting the International Country-**
+
 ![image](https://github.com/Vicky9890/Weather_Forecasting_Application_using_Tkinter/assets/138276603/2b95e7ce-77e5-4fb6-b1cb-20cad9807e95)
+
